@@ -31,12 +31,12 @@ So, what are you waiting for? Join the Helping Hands community today and let's m
 ![Alerts Hub](https://github.com/SohhamSeal/Helping-Hands/blob/main/Preview/Alerts%20Hub.png)
 
 ### Login: A page where admin users can authenticate themselves to access restricted content or features on the website.
-(Also meet Alize, an AI generated video guide who will help you in teh process)
+(Also meet Sussanne, an AI generated video guide who will help you in teh process)
 
 ![Login Page](https://github.com/SohhamSeal/Helping-Hands/blob/main/Preview/Login.png)
 
 ### Register: A page where new admin users can create an account to access the website's content and features.
-(Also meet Alize, an AI generated video guide who will help you in teh process)
+(Also meet Sussanne, an AI generated video guide who will help you in teh process)
 
 ![Register Page](https://github.com/SohhamSeal/Helping-Hands/blob/main/Preview/Register.png)
 
