@@ -15,3 +15,41 @@ Helping Hands is a DBMS for a generic disaster management organization. It consi
 By using Helping Hands, you will be able to control the entire database of the organization from one place and with ease. The organization’s functioning relies a lot on time management, thus automating its database, will preserve plenty of time, facilitating the organization to concentrate better on resource utilization and other more important activities. This will allow your organization to work more efficiently and provide clear and speedy information transfer to facilitate rescue operations.
 
 So, what are you waiting for? Join the Helping Hands community today and let's make the world a safer place!
+
+
+## Screenshots
+
+### Homepage : The main page of the website that provides an overview of the website's purpose and content.
+![Homepage](https://github.com/SohhamSeal/Helping-Hands/blob/main/Preview/homepage.png)
+
+### Achievements Page: A page that highlights the accomplishments and successes of the website or organization.
+![Achievements](https://github.com/SohhamSeal/Helping-Hands/blob/main/Preview/Achievements.png)
+
+### Alerts Hub: A centralized location for important alerts and notifications providing a comprehensive list of links to various sites with valuable information on disastrous events.
+![Alerts Hub](https://github.com/SohhamSeal/Helping-Hands/blob/main/Preview/Alerts%20Hub.png)
+
+### Login: A page where admin users can authenticate themselves to access restricted content or features on the website.
+![Login Page](https://github.com/SohhamSeal/Helping-Hands/blob/main/Preview/Login.png)
+
+### Register: A page where new admin users can create an account to access the website's content and features.
+![Register Page](https://github.com/SohhamSeal/Helping-Hands/blob/main/Preview/Register.png)
+
+### Employee Landing Page: A landing page designed specifically for employees with links to their related pages, such as employee table, department table, volunteer table, Treasury, Resource and Awards list.
+![Login Employee Landing Page](https://github.com/SohhamSeal/Helping-Hands/blob/main/Preview/Login%20Dashboard.png)
+
+### Employee Table View: A page that displays a table of all the employees and their related details.
+![Employee table view](https://github.com/SohhamSeal/Helping-Hands/blob/main/Preview/Employee%20View.png)
+
+### Employee Addition Page: A page where authorized users can add new employee information to the database.
+![Employee Addition Page](https://github.com/SohhamSeal/Helping-Hands/blob/main/Preview/Employee%20Addition.png)
+
+### Employee Details Updation Page- Employee ID verification: A page where authorized users can update a corresponding employee details but needs to verify their employee ID first.
+![Employee Details Updation Page- Employee ID verification](https://github.com/SohhamSeal/Helping-Hands/blob/main/Preview/Employee%20Updation%201.png)
+
+### Employee Details Updation Page- View and edit details: A page where authorized users can update employee information already present in the database.
+![Employee Details Updation Page- View and edit details](https://github.com/SohhamSeal/Helping-Hands/blob/main/Preview/Employee%20Updation%202.png)
+
+### Employee Details Deletion Page: A page where authorized users can delete employee information from the database.
+![Employee details deletion Page](https://github.com/SohhamSeal/Helping-Hands/blob/main/Preview/Employee%20Deletion.png)
+
+All the page screenshots are not being shown as the design and theme remains the same. 
