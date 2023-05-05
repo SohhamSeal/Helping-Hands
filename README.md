@@ -26,6 +26,8 @@ So, what are you waiting for? Join the Helping Hands community today and let's m
 ![Achievements](https://github.com/SohhamSeal/Helping-Hands/blob/main/Preview/Achievements.png)
 
 ### Alerts Hub: A centralized location for important alerts and notifications providing a comprehensive list of links to various sites with valuable information on disastrous events.
+**(The image might have lines in between as the background image of the page is a carousal)
+
 ![Alerts Hub](https://github.com/SohhamSeal/Helping-Hands/blob/main/Preview/Alerts%20Hub.png)
 
 ### Login: A page where admin users can authenticate themselves to access restricted content or features on the website.
